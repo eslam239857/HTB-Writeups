@@ -7,6 +7,8 @@ My personal Hack The Box writeups. Each folder contains the notes and screenshot
 | Module | Topics | Status | Writeup |
 |---|---|---|---|
 | SQL Injection Fundamentals | MySQL, SQL injection, authentication bypass, UNION-based injection, file operations | Completed | [Open writeup](SQL-Injection-Fundamentals/README.md) |
+|---|---|---|---|
+| SQL Injection Fundamentals | MySQL, SQL injection, authentication bypass, UNION-based injection, file operations | Completed | [Open writeup](SQL-Injection-Fundamentals/README.md) |
 
 ## Repository structure
 
